@@ -1,0 +1,6 @@
+{
+  "name": "UK Content Vault - Telegram VIP Access",
+  "description": "Official Telegram access bot with instant Stripe payments, wallet deposits, balance games, and instant group link delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
